@@ -1,0 +1,26 @@
+#nav-bar
+{
+    position: sticky;
+    top : 0;
+    z-index: 10;
+}
+.navbar-nav li 
+{
+    padding: 0 10px;
+}
+
+.navbar-nav li a
+{
+    float: right;
+    text-align: left;
+}
+#nav-bar ul li a:hover
+{
+    color:blue;
+    transition: .3s
+}
+.nav-bar{
+    background:rgb(255, 130, 255), 115, 173;
+}
+
+
